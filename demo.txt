@@ -1,0 +1,23 @@
+Python File Handling Practice
+
+Name: Aditya Bisht
+Course: B.Tech Computer Science
+University: XYZ University
+
+Python is a powerful programming language.
+It is easy to learn and widely used.
+File handling allows us to read and write data.
+Python supports text files and binary files.
+
+Topics:
+- Read a file
+- Write to a file
+- Append data
+- Count words
+- Count lines
+- Search for a word
+- Replace text
+
+This is the last line of the file.This is a new line 1
+This is a new line 2
+This is a new line 3
