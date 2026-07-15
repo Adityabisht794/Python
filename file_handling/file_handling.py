@@ -1,8 +1,8 @@
 file_name=input("Enter the file name: ")
 try:
     f_handle=open(file_name,"r+")
-except:
-    print("File cannot be opened:", file_name)
+except Exception as e:
+    print("File cannot be opened:", e)
     quit()
 
 count=0

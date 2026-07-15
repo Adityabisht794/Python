@@ -18,6 +18,4 @@ Topics:
 - Search for a word
 - Replace text
 
-This is the last line of the file.This is a new line 1
-This is a new line 2
-This is a new line 3
+
