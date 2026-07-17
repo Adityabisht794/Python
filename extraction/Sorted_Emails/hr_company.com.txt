@@ -1,0 +1,31 @@
+From: hr@company.com To: aditya@example.com Subject: Interview
+Invitation
+
+Dear Aditya,
+
+We are pleased to invite you for a technical interview on Monday at
+10:00 AM. Please confirm your availability.
+
+Regards, HR Team
+
+------------------------------------------------------------------------
+
+
+From: hr@company.com To: aditya@example.com Subject: Interview
+Invitation Your interview is scheduled for Monday at 10:00 AM.
+
+------------------------------------------------------------------------
+
+
+From: hr@company.com To: aditya@example.com Subject: Interview Reminder
+Reminder: Please join 15 minutes early.
+
+------------------------------------------------------------------------
+
+
+From: hr@company.com To: aditya@example.com Subject: Offer Letter
+Congratulations! We are pleased to offer you the position.
+
+------------------------------------------------------------------------
+
+

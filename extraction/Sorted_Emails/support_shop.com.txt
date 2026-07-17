@@ -1,0 +1,30 @@
+From: support@shop.com To: customer@example.com Subject: Order Shipped
+
+Hello,
+
+Your order #10245 has been shipped and is expected to arrive within 3-5
+business days.
+
+Thank you for shopping with us.
+
+------------------------------------------------------------------------
+
+
+From: support@shop.com To: customer@example.com Subject: Order Confirmed
+Your order #10245 has been confirmed.
+
+------------------------------------------------------------------------
+
+
+From: support@shop.com To: customer@example.com Subject: Order Shipped
+Your order #10245 has been shipped.
+
+------------------------------------------------------------------------
+
+
+From: support@shop.com To: customer@example.com Subject: Delivery
+Complete Your package has been delivered successfully.
+
+------------------------------------------------------------------------
+
+

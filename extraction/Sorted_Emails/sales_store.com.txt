@@ -1,0 +1,16 @@
+From: sales@store.com To: customer@example.com Subject: Summer Sale Flat
+40% off on electronics this weekend.
+
+------------------------------------------------------------------------
+
+
+From: sales@store.com To: customer@example.com Subject: Flash Sale
+Exclusive 12-hour discounts available now.
+
+------------------------------------------------------------------------
+
+
+From: sales@store.com To: customer@example.com Subject: Coupon Inside
+Use code SAVE20 for extra savings.
+
+

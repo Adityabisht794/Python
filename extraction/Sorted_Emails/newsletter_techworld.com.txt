@@ -1,0 +1,25 @@
+From: newsletter@techworld.com To: subscriber@example.com Subject:
+Weekly Tech News
+
+Hello,
+
+This week’s highlights include AI advancements, Python 3.15 updates, and
+new open-source tools.
+
+Happy Reading! TechWorld Team
+
+------------------------------------------------------------------------
+
+
+From: newsletter@techworld.com To: subscriber@example.com Subject:
+Weekly Tech News This week’s highlights include AI and Python.
+
+------------------------------------------------------------------------
+
+
+From: newsletter@techworld.com To: subscriber@example.com Subject:
+Monthly Roundup Top developer tools of the month.
+
+------------------------------------------------------------------------
+
+

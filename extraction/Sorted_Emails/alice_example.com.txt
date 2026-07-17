@@ -1,0 +1,30 @@
+From: alice@example.com To: bob@example.com Subject: Project Update
+
+Hi Bob,
+
+The first phase of the project is complete. Please review the attached
+report before tomorrow’s meeting.
+
+Thanks, Alice
+
+------------------------------------------------------------------------
+
+
+From: alice@example.com To: bob@example.com Subject: Project Update Hi
+Bob, Phase 1 is complete. Please review the report.
+
+------------------------------------------------------------------------
+
+
+From: alice@example.com To: charlie@example.com Subject: Meeting
+Schedule Can we meet tomorrow at 2 PM to discuss milestones?
+
+------------------------------------------------------------------------
+
+
+From: alice@example.com To: david@example.com Subject: Budget Approval
+Please approve the revised budget by Friday.
+
+------------------------------------------------------------------------
+
+

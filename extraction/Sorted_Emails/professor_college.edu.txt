@@ -1,0 +1,31 @@
+From: professor@college.edu To: student@example.com Subject: Assignment
+Reminder
+
+Dear Student,
+
+This is a reminder that Assignment 4 is due this Friday before 11:59 PM.
+Late submissions will incur a penalty.
+
+Best, Professor Sharma
+
+------------------------------------------------------------------------
+
+
+From: professor@college.edu To: student@example.com Subject: Assignment
+Reminder Assignment 4 is due this Friday.
+
+------------------------------------------------------------------------
+
+
+From: professor@college.edu To: student@example.com Subject: Quiz
+Announcement Quiz 3 will be held next Wednesday.
+
+------------------------------------------------------------------------
+
+
+From: professor@college.edu To: student@example.com Subject: Exam
+Schedule The mid-sem exam starts on August 10.
+
+------------------------------------------------------------------------
+
+

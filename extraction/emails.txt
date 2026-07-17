@@ -1,0 +1,167 @@
+From: alice@example.com To: bob@example.com Subject: Project Update
+
+Hi Bob,
+
+The first phase of the project is complete. Please review the attached
+report before tomorrow’s meeting.
+
+Thanks, Alice
+
+------------------------------------------------------------------------
+
+From: hr@company.com To: aditya@example.com Subject: Interview
+Invitation
+
+Dear Aditya,
+
+We are pleased to invite you for a technical interview on Monday at
+10:00 AM. Please confirm your availability.
+
+Regards, HR Team
+
+------------------------------------------------------------------------
+
+From: support@shop.com To: customer@example.com Subject: Order Shipped
+
+Hello,
+
+Your order #10245 has been shipped and is expected to arrive within 3-5
+business days.
+
+Thank you for shopping with us.
+
+------------------------------------------------------------------------
+
+From: professor@college.edu To: student@example.com Subject: Assignment
+Reminder
+
+Dear Student,
+
+This is a reminder that Assignment 4 is due this Friday before 11:59 PM.
+Late submissions will incur a penalty.
+
+Best, Professor Sharma
+
+------------------------------------------------------------------------
+
+From: friend@gmail.com To: you@gmail.com Subject: Weekend Trip
+
+Hey!
+
+We’re planning a trip this weekend. Let me know if you’re free so I can
+book the tickets.
+
+Cheers, Rahul
+
+------------------------------------------------------------------------
+
+From: newsletter@techworld.com To: subscriber@example.com Subject:
+Weekly Tech News
+
+Hello,
+
+This week’s highlights include AI advancements, Python 3.15 updates, and
+new open-source tools.
+
+Happy Reading! TechWorld Team
+
+------------------------------------------------------------------------
+
+From: alice@example.com To: bob@example.com Subject: Project Update Hi
+Bob, Phase 1 is complete. Please review the report.
+
+------------------------------------------------------------------------
+
+From: alice@example.com To: charlie@example.com Subject: Meeting
+Schedule Can we meet tomorrow at 2 PM to discuss milestones?
+
+------------------------------------------------------------------------
+
+From: alice@example.com To: david@example.com Subject: Budget Approval
+Please approve the revised budget by Friday.
+
+------------------------------------------------------------------------
+
+From: hr@company.com To: aditya@example.com Subject: Interview
+Invitation Your interview is scheduled for Monday at 10:00 AM.
+
+------------------------------------------------------------------------
+
+From: hr@company.com To: aditya@example.com Subject: Interview Reminder
+Reminder: Please join 15 minutes early.
+
+------------------------------------------------------------------------
+
+From: hr@company.com To: aditya@example.com Subject: Offer Letter
+Congratulations! We are pleased to offer you the position.
+
+------------------------------------------------------------------------
+
+From: support@shop.com To: customer@example.com Subject: Order Confirmed
+Your order #10245 has been confirmed.
+
+------------------------------------------------------------------------
+
+From: support@shop.com To: customer@example.com Subject: Order Shipped
+Your order #10245 has been shipped.
+
+------------------------------------------------------------------------
+
+From: support@shop.com To: customer@example.com Subject: Delivery
+Complete Your package has been delivered successfully.
+
+------------------------------------------------------------------------
+
+From: professor@college.edu To: student@example.com Subject: Assignment
+Reminder Assignment 4 is due this Friday.
+
+------------------------------------------------------------------------
+
+From: professor@college.edu To: student@example.com Subject: Quiz
+Announcement Quiz 3 will be held next Wednesday.
+
+------------------------------------------------------------------------
+
+From: professor@college.edu To: student@example.com Subject: Exam
+Schedule The mid-sem exam starts on August 10.
+
+------------------------------------------------------------------------
+
+From: friend@gmail.com To: you@gmail.com Subject: Weekend Trip Let’s
+plan a trip to Rishikesh.
+
+------------------------------------------------------------------------
+
+From: friend@gmail.com To: you@gmail.com Subject: Movie Night Are you
+free this Saturday for a movie?
+
+------------------------------------------------------------------------
+
+From: friend@gmail.com To: you@gmail.com Subject: Birthday Party Don’t
+forget my birthday party this Sunday!
+
+------------------------------------------------------------------------
+
+From: newsletter@techworld.com To: subscriber@example.com Subject:
+Weekly Tech News This week’s highlights include AI and Python.
+
+------------------------------------------------------------------------
+
+From: newsletter@techworld.com To: subscriber@example.com Subject:
+Monthly Roundup Top developer tools of the month.
+
+------------------------------------------------------------------------
+
+From: sales@store.com To: customer@example.com Subject: Summer Sale Flat
+40% off on electronics this weekend.
+
+------------------------------------------------------------------------
+
+From: sales@store.com To: customer@example.com Subject: Flash Sale
+Exclusive 12-hour discounts available now.
+
+------------------------------------------------------------------------
+
+From: sales@store.com To: customer@example.com Subject: Coupon Inside
+Use code SAVE20 for extra savings.
+
